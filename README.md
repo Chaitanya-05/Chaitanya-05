@@ -1,4 +1,4 @@
-![Header](./pic.jpeg)
+![Header](./pic.png)
 <h1 align="center">Hi 👋, I'm Chaitanya Dakhale</h1>
 <h3 align="center">Passionate about building seamless and efficient web applications, I'm exploring the realms of both frontend and backend development. Currently working with technologies like Node.js, React, Express, MongoDB, and SQL.</h3>
 
