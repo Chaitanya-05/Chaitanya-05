@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about building seamless and efficient web applications, I'm exploring the realms of both frontend and backend development. Currently working with technologies like Node.js, React, Express, MongoDB, and SQL.</h3>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimanshuRajpoot2301&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Chaitanya-05&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 
