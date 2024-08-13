@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *java,html,css,bootstrap,sass,Javascript*<br>
 
-- 📫 How to reach me *hr3777665@gmail.com*
+- 📫 How to reach me *cdakhale@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QvMxQcAO4JrmXlloEs9EvQtjSa3HAzQL/view?usp=sharing](https://drive.google.com/file/d/1QvMxQcAO4JrmXlloEs9EvQtjSa3HAzQL/view?usp=sharing)
 
@@ -58,17 +58,17 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuRajpoot2301&theme=merko&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-05&theme=merko&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=HimanshuRajpoot2301&theme=merko&show_icons=true"><br/>
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRajpoot2301&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-05&theme=merko&show_icons=true"><br/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-05&theme=merko&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HimanshuRajpoot2301&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=Chaitanya-05&theme=matrix&no-frame=false&no-bg=false&margin-w=6)
