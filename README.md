@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *cdakhale@gmail.com*
 
-- 📄 Know about my experiences https://drive.google.com/file/d/11x4580XAC-T1B6hRk5c6Rbo6WWk9Pt9L/view?usp=drive_link.
+- 📄 Know about my experiences [https://drive.google.com/file/d/156QzurQz-0zukU-g8nsmHZ_MBV-uy8Q-/view?usp=sharing]
 
 
 ---
