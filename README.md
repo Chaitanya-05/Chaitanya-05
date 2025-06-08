@@ -16,10 +16,22 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/156QzurQz-0zukU-g8nsmHZ_MBV-uy8Q-/view?usp=sharing]
 
 
+---
+
+
+## 📌 Pinned Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME1)](https://github.com/YOUR_USERNAME/REPO_NAME1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME2)](https://github.com/YOUR_USERNAME/REPO_NAME2)
+
+
+
+---
+
+
 ## 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chaitanya-05)](https://git.io/streak-stats)
-
 
 
 ---
