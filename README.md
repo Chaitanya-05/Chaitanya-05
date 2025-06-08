@@ -21,7 +21,7 @@
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME1)](https://github.com/YOUR_USERNAME/REPO_NAME1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chaitanya-05&repo=Equality-Eclipse_044)](https://github.com/Chaitanya-05/Equality-Eclipse_044)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME2)](https://github.com/YOUR_USERNAME/REPO_NAME2)
 
 
